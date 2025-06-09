@@ -1,0 +1,1 @@
+# use strict 是什麼？
